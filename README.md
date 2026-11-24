@@ -4,7 +4,7 @@
 
 # Make the AI Judge Laugh: Cat Reviews Its Human
 
-A deterministic Python entry for the make.fun competition "Make the AI Judge Laugh: Cat Reviews Its Human". It writes one funny single-line one-star review from a house cat about its human — 123 characters — to `/output/entry.txt`.
+A deterministic Python entry for the make.fun competition "Make the AI Judge Laugh: Cat Reviews Its Human". It writes one funny single-line one-star review from a house cat about its human — 118 characters — to `/output/entry.txt`.
 
 > One star. Would give zero if I had thumbs. The food bowl: empty. The lap: occupied by a laptop. The audacity: endless.
 
@@ -14,7 +14,7 @@ A deterministic Python entry for the make.fun competition "Make the AI Judge Lau
 - **Specific complaints:** the empty food bowl and the laptop-occupied lap are recognisable to any cat owner, not vague grumpiness.
 - **Deadpan shape, absurd content:** it reads like a real review — one star, itemised complaints — while the content goes somewhere only a cat would go.
 - **Sting in the last words:** "The audacity: endless" rewards a second read and closes the review with a flourish.
-- **Tight:** 123 characters, every word working.
+- **Tight:** 118 characters, every word working.
 
 ## How it works
 
